@@ -1,0 +1,22 @@
+# Copyright (C) 2024 Your Name
+# This file is distributed under the same license as the Supplier Product Manager plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Supplier Product Manager 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-01T00:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+
+#: supplier-product-manager.php:4
+msgid "Supplier Product Manager"
+msgstr ""
+
+#: supplier-product-manager.php:5
+msgid "Manage suppliers, categories, and products with custom fields"
+msgstr ""
